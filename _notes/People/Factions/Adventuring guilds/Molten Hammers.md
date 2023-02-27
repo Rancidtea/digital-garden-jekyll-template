@@ -1,0 +1,4 @@
+---
+tag: faction
+---
+[[Ranganor]]
