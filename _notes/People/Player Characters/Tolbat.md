@@ -9,4 +9,4 @@ tag: pc
 [[Arthur]] - Husband.
 [[Ellian]] - bard that was bullied by Tolbat and [[Aster]]
 
-![[zljy5wkg.bmp]]
+<img src="/assets/zljy5wkg.bmp"/>

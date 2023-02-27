@@ -5,4 +5,4 @@ tag: npc
 Was betrothed to [[Sitar]]
 
 
-]![[tzi9tqpk.bmp]]
+<img src="/assets/tzi9tqpk.bmp"/>

@@ -7,4 +7,4 @@ tag: pc
 
 [[Suzanna Applebee]] - Caretaker of Orphanage
 
-![[i7mtp6r6.bmp]]
+<img src="/assets/i7mtp6r6.bmp"/>

@@ -3,4 +3,4 @@ tag: pc
 ---
 [[Aster]],[[Tolbat]],[[Mages’ college]]
 
-![[i4cgalqe.bmp]]
+<img src="/assets/i4cgalqe.bmp"/>

@@ -12,4 +12,4 @@ tag: pc
 
 From: [[Theramore]], Esodon
 
-![[xxn5m9fw.bmp]]
+<img src="/assets/xxn5m9fw.bmp"/>

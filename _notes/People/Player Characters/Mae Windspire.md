@@ -11,4 +11,4 @@ Her dad's are [[Konros Crestfall]] and [[Tolbat]]. She is from Windspire Villiag
 
 [[Thaedrick]]
 
-![[ctja7b0t.bmp]]
+<img src="/assets/ctja7b0t.bmp"/>

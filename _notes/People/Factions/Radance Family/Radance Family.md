@@ -6,3 +6,5 @@ tag: faction
 The rulars of the astral elves, apparently dragon keepers. Can be compared to sunlight. Live in [[Tora Morali]]
 
 [[Mysterious figure]] mentioned them to Adriel. 
+
+<img src="/assets/IMG_8609.jpg"/>

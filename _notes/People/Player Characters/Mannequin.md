@@ -10,4 +10,4 @@ tag: pc
 
 - [ ] Rescue Mannequin
 
-![[ryiz5d03.bmp]]
+<img src="/assets/ryiz5d03.bmp"/>

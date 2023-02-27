@@ -15,4 +15,4 @@ tag: pc
 [[Beau]] - Sitar's halfling friend
 [[Ch'tya]] - nearly wife, now in Sitar's tribe
 
-![[8cxe9b8s.bmp]]
+<img src="/assets/8cxe9b8s.bmp"/>
