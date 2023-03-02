@@ -6,43 +6,46 @@ id: home
 permalink: /
 ---
 
-# Factions
 
+# Factions
 - Adventuring Guilds
-  - [Guilded Phoenix](People/Factions/Adventuring%20guilds/Guilded%20Phoenix.md)
-  - [Hydra Hunters](People/Factions/Adventuring%20guilds/Hydra%20Hunters.md)
-  - [Molten Hammers](People/Factions/Adventuring%20guilds/Molten%20Hammers.md)
-  - [Stargazers](People/Factions/Adventuring%20guilds/Stargazers.md)
-  - [The Owlbears](People/Factions/Adventuring%20guilds/The%20Owlbears.md)
-  - [Starracer](People/Factions/Starracer/Starracer.md)
+  - [[Guilded Phoenix]]
+  - [[Hydra Hunters]]
+  - [[Molten Hammers]]
+  - [[Stargazers]]
+  - [[The Owlbears]]
+  - [[Starracer]]
   
 - Royalty
-  - [Alpate Royal Family](People/Factions/Alpate%20Royalty/Alpate%20Royal%20Family.md)
-  - [Klern Illikas](People/Key%20NPC/Klern%20Illikas.md)
-  - [Yoretak - Shayara's husband](People/Factions/Alpate%20Royalty/Yoretak%20-%20Shayara's%20husband.md)
-  - [Radance Family](People/Factions/Radance%20Family/Radance%20Family.md)
+  - [[Alpate Royal Family]]
+  - [[Klern Illikas]]
+  - [[Yoretak - Shayara's husband]]
+  - [[Radance Family]]
   
 - Organiszations 
-  - [Mages’ college](People/Factions/Mages%20College/Mages’%20college.md)
-  - [Stormguard](People/Factions/Stormguard.md)
+  - [[Mages’ college]]
+  - [[Stormguard]]
 
 # Overviews
 - Planes
-	- [Astral Sea](Places/Astral%20Sea/Astral%20Sea.md)
-	- [Feywild](Places/Feywild.md)
-	- [Far Realm](Places/Far%20Realm.md)
-	- [Mjad Djt](Places/Mjad%20Djt.md)
+	- [[Astral Sea]]
+	- [[Feywild]]
+	- [[Far Realm]]
+	- [[Mjad Djt]]
 	
 - Religion
-	- [Pantheon Overview](Religion/Pantheon%20Overview.md)
+	- [[Pantheon Overview]]
+
 - Events
-  - [Cataclysm](Events/Cataclysm/Cataclysm.md)
-  - [Gith Vs Astral Elves](Events/Gith%20Vs%20Astral%20Elves.md)
+  - [[Cataclysm]]
+  - [[Gith Vs Astral Elves]]
+
 
 
 
 
 # Vault Info
+## Recently Updated Notes
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 5 %}
