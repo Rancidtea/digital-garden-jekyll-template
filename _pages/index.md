@@ -1,22 +1,48 @@
 ---
+cssclass: dashboard
 layout: page
 title: Home
 id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Factions
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+- Adventuring Guilds
+  - [Guilded Phoenix](People/Factions/Adventuring%20guilds/Guilded%20Phoenix.md)
+  - [Hydra Hunters](People/Factions/Adventuring%20guilds/Hydra%20Hunters.md)
+  - [Molten Hammers](People/Factions/Adventuring%20guilds/Molten%20Hammers.md)
+  - [Stargazers](People/Factions/Adventuring%20guilds/Stargazers.md)
+  - [The Owlbears](People/Factions/Adventuring%20guilds/The%20Owlbears.md)
+  - [Starracer](People/Factions/Starracer/Starracer.md)
+  
+- Royalty
+  - [Alpate Royal Family](People/Factions/Alpate%20Royalty/Alpate%20Royal%20Family.md)
+  - [Klern Illikas](People/Key%20NPC/Klern%20Illikas.md)
+  - [Yoretak - Shayara's husband](People/Factions/Alpate%20Royalty/Yoretak%20-%20Shayara's%20husband.md)
+  - [Radance Family](People/Factions/Radance%20Family/Radance%20Family.md)
+  
+- Organiszations 
+  - [Mages’ college](People/Factions/Mages%20College/Mages’%20college.md)
+  - [Stormguard](People/Factions/Stormguard.md)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+# Overviews
+- Planes
+	- [Astral Sea](Places/Astral%20Sea/Astral%20Sea.md)
+	- [Feywild](Places/Feywild.md)
+	- [Far Realm](Places/Far%20Realm.md)
+	- [Mjad Djt](Places/Mjad%20Djt.md)
+	
+- Religion
+	- [Pantheon Overview](Religion/Pantheon%20Overview.md)
+- Events
+  - [Cataclysm](Events/Cataclysm/Cataclysm.md)
+  - [Gith Vs Astral Elves](Events/Gith%20Vs%20Astral%20Elves.md)
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-<strong>Recently updated notes</strong>
 
+
+# Vault Info
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 5 %}
@@ -25,9 +51,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     </li>
   {% endfor %}
 </ul>
+- 🔖 Tagged:  favorite 
+ `$=dv.list(dv.pages('#favorite').sort(f=>f.file.name,"desc").limit(4).file.link)`
+- 〽️ Stats
+	-  File Count: `$=dv.pages().length`
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
