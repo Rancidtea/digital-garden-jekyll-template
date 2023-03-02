@@ -1,5 +1,4 @@
 ---
-cssclass: dashboard
 layout: page
 title: Home
 id: home
@@ -43,9 +42,7 @@ permalink: /
 
 
 
-
-# Vault Info
-## Recently Updated Notes
+# Recently Updated Notes
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 5 %}
