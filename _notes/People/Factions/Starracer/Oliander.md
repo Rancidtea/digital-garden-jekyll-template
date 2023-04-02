@@ -6,4 +6,4 @@ tag: npc
 
 [[Starracer]]
 
-<img src="/assets/uky2tnk9.bmp"/>
+![[uky2tnk9.bmp]]

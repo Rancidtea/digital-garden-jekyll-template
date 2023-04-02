@@ -3,5 +3,5 @@ tag: npc
 ---
 [[Stargazers]]
 [[Titania]] - warlock patron
-[[Vithra]] - wife
+[[Misc, not enough info/Vithra]] - wife
 

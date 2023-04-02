@@ -1,5 +1,6 @@
 ---
 tag: Othergod
+share: true  
 ---
 The queen of the [[feywild]]. She is frequently mentioned in fairy tales and old legends, but is rarely ever worshipped.
 

@@ -1,6 +1,6 @@
 ---
 tag: pc
 ---
-[[Aster]],[[Tolbat]],[[Mages’ college]]
+[[Aster]],[[Tolbat]],[[Mages’ college]],[Hemlock](People/Player%20Characters/Hemlock.md)
 
-<img src="/assets/wm92aa47.bmp"/>
+![[wm92aa47.bmp]]

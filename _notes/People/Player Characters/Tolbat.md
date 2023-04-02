@@ -6,7 +6,7 @@ tag: pc
 [[Mages’ college]]
 
 
-[[Arthur]] - Husband.
-[[Ellian]] - bard that was bullied by Tolbat and [[Aster]]
+[[Misc, not enough info/Arthur]] - Husband.
+[[People/Factions/Adventuring guilds/Hydra Hunters/Ellian]] - bard that was bullied by Tolbat and [[Aster]]
 
-<img src="/assets/zljy5wkg.bmp"/>
+![[zljy5wkg.bmp]]

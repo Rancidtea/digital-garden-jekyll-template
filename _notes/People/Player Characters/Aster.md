@@ -5,6 +5,6 @@ tag: pc
 
 [[Mages’ college]]
 
-[[Suzanna Applebee]] - Caretaker of Orphanage
+[[Misc, not enough info/Suzanna Applebee]] - Caretaker of Orphanage
 
-<img src="/assets/i7mtp6r6.bmp"/>
+![[i7mtp6r6.bmp]]

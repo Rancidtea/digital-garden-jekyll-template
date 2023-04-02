@@ -3,6 +3,6 @@ tag: faction
 ---
 [[Scartos]]
 
-[[Vithra]] - drow wife
+[[Misc, not enough info/Vithra]] - drow wife
 [[Cidran]] - drow husband 
 

@@ -17,7 +17,7 @@ Eight towers were erected by the gods in the effort to keep the evil gods from t
 
 -   Where gith were, somewhere outside of Grimore, [[Esodon]]
     
-
+3. Necromancy Tower - potentially in [[Places/Continents/Luticah/Alpate|Windspire Village]] owned by [[People/Key NPC/Markus Windspire|Makrus/Tashar]]
   
 
 1.  -   8. ???

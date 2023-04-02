@@ -1,5 +1,6 @@
 ---
 tag: Lessergod
+share: true  
 ---
 
 Molpe - Shield

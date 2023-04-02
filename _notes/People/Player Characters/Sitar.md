@@ -2,17 +2,17 @@
 tag: pc
 ---
 [[Alpate]]
-[[Xag]]
+[[Misc, not enough info/Xag]]
 
 [[Jennifer Baker]]'s husband
-[[Michael]]'s dad.
+[[Misc, not enough info/Michael]]'s dad.
 
-[[Urim]] - Lightning orc brother
-[[Uram]] - Plant orc brother
-[[Urama]] - mother
-[[Shan]] - sister
+[[Misc, not enough info/Urim]] - Lightning orc brother
+[[Misc, not enough info/Uram]] - Plant orc brother
+[[Misc, not enough info/Urama]] - mother, killed by [[Tolbat]]
+[[Misc, not enough info/Shan]] - sister
 [[Dul]] - Caster orc
-[[Beau]] - Sitar's halfling friend
+[[Misc, not enough info/Beau]] - Sitar's halfling friend
 [[Ch'tya]] - nearly wife, now in Sitar's tribe
 
-<img src="/assets/8cxe9b8s.bmp"/>
+![[8cxe9b8s.bmp]]

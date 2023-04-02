@@ -1,5 +1,7 @@
 ---
 tag: Othergod
+tag: favorite
+share: true  
 ---
 An eldritch lord of the [[feywild]] realm and the master of creation. Although not technically a god, their power rivals that of many. 
 

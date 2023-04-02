@@ -3,4 +3,4 @@ tag: faction
 ---
 [[Hermessa]]
 
-[[Adresin]], [[Raidren]],[[Rynhardt]]
+[[Adresin]], [[Misc, not enough info/Raidren]],[[Misc, not enough info/Rynhardt]]

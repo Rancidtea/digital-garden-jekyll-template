@@ -6,5 +6,8 @@ tag: faction
 The rulars of the astral elves, apparently dragon keepers. Can be compared to sunlight. Live in [[Tora Morali]]
 
 [[Mysterious figure]] mentioned them to Adriel. 
-
-<img src="/assets/IMG_8609.jpg"/>
+[[Leala Paedartis]]
+Leshiel Radance - Leala's Father
+Malaya Radance - Leala's Mother
+Lucian Radance - Leala's brother
+[[People/Player Characters/Adriel|Lazurus Radance]] - [[Leala Paedartis]]'s great great something grandfather

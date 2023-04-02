@@ -1,6 +1,7 @@
 ---
 tag: pc
 ---
-[[Aster]],[[Tolbat]],[[Mages’ college]]
+[[Aster]],[[Tolbat]],[[Mages’ college]],[Beetle](People/Player%20Characters/Beetle.md)
 
-<img src="/assets/i4cgalqe.bmp"/>
+
+![[i4cgalqe.bmp]]

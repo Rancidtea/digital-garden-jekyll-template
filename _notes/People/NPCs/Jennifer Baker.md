@@ -2,5 +2,5 @@
 tag: npc
 ---
 [[Sitar]]'s wife
-[[Jessica Yusa]]
-[[Michael]]'s mom
+[[Misc, not enough info/Jessica Yusa]]
+[[Misc, not enough info/Michael]]'s mom

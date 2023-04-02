@@ -22,4 +22,4 @@ Very small continent located just north of the equator and east of Salwesh. It h
 
 The continent located farthest north, was discovered only 200 years ago, the southern coasts are warm and extremely humid. Most of the area northward is sparsely populated and poorly mapped.(races common to this continent: mostly humans, but is the most diverse). 
 
-<img src="/assets/Royals_World_1.jpg"/>
+![[Royals_World_1.jpg]]

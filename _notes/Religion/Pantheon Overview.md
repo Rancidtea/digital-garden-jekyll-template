@@ -1,5 +1,6 @@
 ---
 tag: Religion
+share: true  
 ---
 These are the more powerful and prevalent Gods. There are many other beings that exist in the cosmos who hold godlike abilities and powers, they are just not commonly worshipped or as powerful as the ones listed.
 
